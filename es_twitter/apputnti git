@@ -1,0 +1,98 @@
+appunti github
+
+approfondire sourcetree
+
+flow github:
+.gitignore sono tutti quei file che non avrà all'interno
+
+
+
+-1 git init nella cartella del progetto
+		"sto dicendo che qui voglio avere git"
+
+-2 git status 
+	"git ci dice che ci sono i file che vede ma non tiene traccia delle modifiche"
+	
+-3 git add .
+	"tutto ciò che segue devi inserirlo e con - git add . aggiungo tutto"
+
+-4 git status per vedere il tracciamento dei dati
+
+-5 git commit -m "primo file caricato"
+
+-6 git status 
+
+-7 git remote add origin git@github.com:ColmeSH/my-website-maury.git
+	"così allaccio l'occunt su internet"
+	
+-8 git push -u origin master
+	"carica tutti i file sul branch master(il luogo di default del progetto)"
+	
+				-nel caso in cui io voglia fare un test apro un branch-test
+				
+-9 git commit -m "messaggio" 
+		per committare e completare il passaggio
+		
+
+
+
+
+			CONFIGURAZIONE GLOBALE: 
+			
+			git config --global user.name username
+			git config --global user.email email address
+
+
+	-git rm --cached filename
+	
+-release diciamo alla comunità che questo codice è ok
+
+
+-10 git checkout per tornare indietro coi commit e forka il progetto
+
+-11 git checkout -b branchname
+
+-12 git branch 
+	per sapere in che branch siamo 
+	
+-13 git clone del link forkato dall'account dell'utente interessato..
+
+- 14 qui ho fatto un fork DEVE ESSERE FORKATO PERCHE' SENNO' IL PROGETTO LO HAI IN SOLA LETTURA!
+
+
+- 15 git pull?? (dal sito fai una richiesta di pull) mandare all'utente una richiesta di pull in cui mostri le modifiche e 
+si crea una pagina di discussione con titolo, descrizione , i vari commit e poi i commenti e lasciare commenti,
+se non dovesse essere accettata e viene rimandata una controrichiesta che da li in poi mi permette di committare sul suo progetto. in pratica basta una sola pull request..
+
+
+- se la voglio accetto la request 
+
+GUARDA COME HAI LAVORATO
+
+
+- se voglio continuare il progetto da casa faccio o git clone se non esiste il progetto oppure git pull se esiste già il progetto.
+
+-
+
+.-----------------------------------
+
+METODO AGILE dello spezzettare le cose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
