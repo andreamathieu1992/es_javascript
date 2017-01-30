@@ -1,18 +1,18 @@
 testo esercizio:
-c'è un contenitore che in bootstrap è un must, che divide in colonne la pagina, 
+c'è un contenitore che in bootstrap è un must, che divide in colonne la pagina,
   best practice
-  
+
   parti con il body,
-  div class container che è il primo contenitore con caratteristiche particolari è fluido, 
+  div class container che è il primo contenitore con caratteristiche particolari è fluido,
   abbiamo un input dentro un form con dentro un div wrapper per la digitazione e poi c'è la textarea vera e propria con clas form-control status-box specificando che abbia 2 righe e con un placeholder con cosa ti passa per la testa e poi aggiungo il bottone classe button-group pull-right con dentro ha il paragrafo con il contatore  e il tasto post che ha un a href con che ha class btn btn-primary poi c'è un ul che verrà inserito lato js e poi si chiudo il div container alla fine del body attacchiamo il file js
-  
-  
-  
-  
+
+
+
+
  WORKFLOW:
-  
-  -RECUPERARE testo text area
-  -RIDURRE CONTATORE MANO A MANO CHE DIGITO
-  -DISATTIVARE ATTIVO SPENTO IN BASE A TEXTAREA
-  -STAMPARE TESTO TEXTAREA SOTTO 
-  -MOSTRARE IL COUNTER IN NEGATIVO OK
+
+  -RECUPERARE testo text area OK FATTO
+  -RIDURRE CONTATORE MANO A MANO CHE DIGITO OK FATTO
+  -DISATTIVARE ATTIVO SPENTO IN BASE A TEXTAREA OK FATTO
+  -STAMPARE TESTO TEXTAREA SOTTO  OK FATTO
+  -MOSTRARE IL COUNTER IN NEGATIVO OK fatto anche in rosso
